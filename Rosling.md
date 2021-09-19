@@ -4,15 +4,15 @@ Hans Rosling found in his survey that when given two significantly different cou
 
 - What type of change took place in Asia that preceded economic growth? Why was this type of change significant?
 
-There were various changes in culture and society that eventually led to Asia’s economic growth.
+There were various changes in culture and society that eventually led to Asia’s economic growth. This type of change was significant because it served as an example of what kinds of things could happen that would positively impact the trajectory of a country's economic stability and growth.
 
 - In accordance with Hans Rosling’s TED talk, what is the relationship between child mortality and GDP per capita?
 
-Rosling discusses how as the GCP per capita increases in an area, the child survival rate increases in that same area
+Rosling discusses how as the GCP per capita increases in an area, the child survival rate increases in that same area.
 
 - In terms of income distribution, how has the world changed from 1962 until 2003?
 
-As time progressed from 1962 to 2003, underdeveloped countries were able to improve at a faster rate than more developed countries, leading to a smaller income distribution
+As time progressed from 1962 to 2003, underdeveloped countries were generally able to improve at a faster rate than more developed countries, leading to a smaller income distribution. While the overall trend was positive, the rate at which underdeveloped countries improved varied.
 
 - What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions? How does this relate to his previous observation regarding preconceived ideas?
 
