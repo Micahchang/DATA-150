@@ -3,5 +3,6 @@
 
 1.  [Blumenstock Response](Blumenstock.html)
 2.  [Rosling Lightning Round Questions](Rosling.html) 
+3.  [Barder Lightning Round Questions](Barder.html)
 
 # Formal Responses
