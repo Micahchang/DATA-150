@@ -9,3 +9,4 @@
 6.  [In Class Essay 9/30](classessay9-30.html)
 
 # Formal Responses
+1. [Annotated Bibliography](annotatedbibliography.html)
