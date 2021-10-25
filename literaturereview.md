@@ -1,4 +1,4 @@
-#Accessible Healthcare in Nigeria
+# Accessible Healthcare in Nigeria
 
   The accessibility of healthcare facilities and services is crucial for the health and wellness of all people and could be a determining factor of a person’s survivability. In Amartya Sen’s book, Development as Freedom, Sen explains how “a great many people have little access to health care … spend their lives fighting unnecessary morbidity, often succumbing to premature mortality,” (Sen). Sen also explains how freedoms are connected to each other in his description of instrumental freedoms: “These instrumental freedoms directly enhance the capabilities of people, but they also supplement one another, and can furthermore reinforce one another,” (Sen). Accessible healthcare influences and is influenced by other freedoms, extending to beyond just the health of a person. 
 
@@ -22,7 +22,7 @@ One of the more recent world events that has had seemingly unprecedented effects
 
 Several data science methods and datasets have appeared to be significantly influential and commonplace in the research and investigation of accessibility of healthcare in Nigeria. Methods such as interviewing members of a population through surveys or questionnaires and conducting ethnographic fieldwork provide intimate knowledge and help to learn the local complexities and inner workings of issues at hand, rather than interpreting and making assumptions from afar. The use of population distribution sets and census data gathered from national initiatives such as the Nigerian Demographic and Health Survey reports were also utilized fairly often. The issue of accessible healthcare in Nigeria is a perfect example of Sen’s explanation of the many connections and relationships between various freedoms, as factors such as economic flexibility, political influence, level of education, and geographic location co-exist and depend on each other. I think that a more extensive and thorough exploration of the use of models that took in data would be beneficial to further understand the usefulness and implications of the research studies that were discussed. I also think that there was not much research done on the effectiveness of alternatives to healthcare facilities and how significant of a negative impact they had on the health outcomes on populations that were unable to access quality healthcare services and facilities. 
 
-##Works Cited
+## Works Cited
 
 Ajala, Aderemi, and Blessing Nonye Onyima. “Public Healthcare Access: Burdens and Adaptation in Ibarapa Nomadic Community of Southwestern Nigeria.” Journal of Asian and African Studies, vol. 56, no. 7, 2020, pp. 1590–1606., https://doi.org/10.1177/0021909620975806.
 
