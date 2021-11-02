@@ -11,6 +11,7 @@
 8.  [In Class Essay 10/12](classessay10-12.html)
 9.  [In Class Essay 10/21](classessay10-21.html)
 10. [In Class Essay 10-28](classessay10-28.html)
+11. [In Class Essay 11-2](classessay11-2.html)
 
 # Formal Responses
 1. [Annotated Bibliography](annotatedbibliography.html)
