@@ -15,6 +15,7 @@
 12. [In Class Essay 11-4](classessay11-4.html)
 13. [In Class Essay 11-9](classessay11-9.html)
 14. [In Class Essay 11-11](classessay11-11.html)
+15. [In Class Essay 11-16](classessay11-16.html)
 
 # Formal Responses
 1. [Annotated Bibliography](annotatedbibliography.html)
