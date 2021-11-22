@@ -20,4 +20,4 @@
 # Formal Responses
 1. [Annotated Bibliography](annotatedbibliography.html)
 2. [Literature Review](literaturereview.html)
-3. [Methodological Investigation]
+3. [Methodological Investigation](Methodological Investigation (1))
