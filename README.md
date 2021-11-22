@@ -20,4 +20,4 @@
 # Formal Responses
 1. [Annotated Bibliography](annotatedbibliography.html)
 2. [Literature Review](literaturereview.html)
-3. [Methodological Investigation](Methodological Investigation (1).pdf.html)
+3. [Methodological Investigation](https://github.com/Micahchang/DATA-150/blob/b5cbee6e85e90918d5ec77d97dca12a5b6779262/Methodological%20Investigation%20(1).pdf)
