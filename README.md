@@ -22,4 +22,4 @@
 2. [Literature Review](literaturereview.html)
 3. [Methodological Investigation](https://github.com/Micahchang/DATA-150/blob/b5cbee6e85e90918d5ec77d97dca12a5b6779262/Methodological%20Investigation%20(1).pdf)
 4. [Presentation Abstract](presentationabstract.html)
-5. [Research Proposal](final.html)
+5. [Research Proposal](https://github.com/Micahchang/DATA-150/blob/c1a6946109618372239fb2a9c10666d3d5a47991/Research%20Proposal%20(1).pdf)
